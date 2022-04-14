@@ -1,0 +1,10 @@
+{
+  "name": "ranStr",
+  "version": "1.0.0",
+  "description": "Class_Random_String",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
