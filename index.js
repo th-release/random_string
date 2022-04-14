@@ -31,5 +31,3 @@ class random {
 		}
 	}
 }
-
-console.log(new random().getRandom("all"));
